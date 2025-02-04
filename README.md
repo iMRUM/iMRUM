@@ -1,4 +1,54 @@
-## Hi there 👋
+## Hi there, I'm Imry 👋
+
+Welcome to my profile!
+I'm passionate about software development and enjoy working on various projects to enhance my skills and contribute to the community.
+
+### 🔹 Programming Skills:
+- **Network Programming**
+- **Unit Testing**
+- **Protocol Implementation**
+- **Object-Oriented Programming (OOP)**
+- **UI Design**
+
+### 🔹 Tools & Platforms:
+- **SFML**, **Wireshark**, **BeautifulSoup**
+- **Pandoc**, **tabula-java**, **tabula-py**
+- **AWS (AWS Academy CF Graduate)**
+- **Docker**
+
+### 🔹 Operating Systems:
+- **Linux (Mint/Ubuntu)** | **Windows**
+  
+## 🔭 Featured Projects
+### 🎲 **Monopoly 2025** (C++ | SFML)  
+A fully functional **Monopoly game engine** built with Modern C++, SFML, and an **MVC architecture**. Implements **SOLID principles**, **Singleton, Composite, and State patterns**, and robust error handling.  
+[🔗 GitHub Repo](https://github.com/iMRUM/cpponopoly)
+
+### 🌐 **QUIC Streams 2024** (Python)  
+A **Python implementation of the QUIC protocol**, featuring modules for streams, frames, packets, and connections following relevant RFCs. Built with **SOLID principles** for maintainability and extensibility.  
+[🔗 GitHub Repo](https://github.com/iMRUM/auquic)
+
+### ✈️ **Airline Manager & Course Enrollment System 2023** (Java)  
+A **Java project** demonstrating **design patterns** like **Factory, Observer, Strategy, and State**, built as part of my OOP course. Earned **100/100** in grading.  
+[🔗 GitHub Repo](https://github.com/iMRUM/OOP-Sem1-2023-4-AU)
+
+
+## 🌱 Learning and Development
+
+I'm continuously learning and exploring new technologies. Currently, I'm focusing on:
+
+- Advanced Java programming
+
+- Network protocols and their implementations
+
+- Modern C++ development
+
+## 📫 Let's Connect
+
+I'm open to discussing new ideas, collaborations, or opportunities.
+Feel free to reach out to me through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/imry-rodkin-805ba6285). 
+
+Thanks for visiting my profile!
 
 <!--
 **iMRUM/iMRUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
