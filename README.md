@@ -12,7 +12,7 @@ I'm passionate about software development and enjoy working on various projects 
 
 ### 🔹 Tools & Platforms:
 - **SFML**, **Wireshark**, **BeautifulSoup**
-- **Pandoc**, **tabula-java**, **tabula-py**
+- **Pandoc**, **tabula-java**, **tabula-py**, **Doxygen**
 - **AWS (AWS Academy CF Graduate)**
 - **Docker**
 
@@ -22,11 +22,11 @@ I'm passionate about software development and enjoy working on various projects 
 ## 🔭 Featured Projects
 ### 🎲 **Monopoly 2025** (C++ | SFML)  
 A fully functional **Monopoly game engine** built with Modern C++, SFML, and an **MVC architecture**. Implements **SOLID principles**, **Singleton, Composite, and State patterns**, and robust error handling.  
-[🔗 GitHub Repo](https://github.com/iMRUM/cpponopoly)
+[🔗 READ THE DOCS](https://imrum.github.io/cpponopoly/html/)
 
 ### 🌐 **QUIC Streams 2024** (Python)  
 A **Python implementation of the QUIC protocol**, featuring modules for streams, frames, packets, and connections following relevant RFCs. Built with **SOLID principles** for maintainability and extensibility.  
-[🔗 GitHub Repo](https://github.com/iMRUM/auquic)
+[🔗 READ THE DOCS](https://imrum.github.io/cpponopoly/html/)
 
 ### ✈️ **Airline Manager & Course Enrollment System 2023** (Java)  
 A **Java project** demonstrating **design patterns** like **Factory, Observer, Strategy, and State**, built as part of my OOP course. Earned **100/100** in grading.  
