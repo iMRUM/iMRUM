@@ -31,6 +31,15 @@
     .skill-tag:hover {
       transform: scale(1.05);
     }
+    .profile-image-container img {
+      filter: brightness(1);
+      transition: all 0.5s ease;
+    }
+    .profile-image-container img:hover {
+      filter: brightness(1.1);
+      transform: scale(1.05) rotate(2deg);
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.2);
+    }
   </style>
 </head>
 <body class="bg-gray-50 text-gray-800">
@@ -46,10 +55,14 @@
         </div>
       </div>
       <div class="md:w-1/2 mt-10 md:mt-0 flex justify-center">
-        <div class="bg-white p-4 rounded-lg shadow-xl transform rotate-3 w-64 h-64 flex items-center justify-center">
-          <div class="text-center">
-            <i class="fas fa-code text-6xl text-indigo-600 mb-4"></i>
-            <p class="text-gray-700 font-medium">Software Developer</p>
+        <div class="bg-white p-4 rounded-lg shadow-xl transform rotate-3 w-64 h-64 flex items-center justify-center overflow-hidden">
+          <div class="text-center profile-image-container">
+            <img 
+              src="https://media.licdn.com/dms/image/v2/D4D35AQHWbPLnU9YxiQ/profile-framedphoto-shrink_400_400/B4DZU8mNwWHkAc-/0/1740478405983?e=1742760000&v=beta&t=9Nr3Uc_YhMR3mb4AxKlWPRfbbPXv_m-pATzLUz5vdAw" 
+              alt="Imry's Profile" 
+              class="w-48 h-48 object-cover transition-all duration-300 hover:scale-110"
+            />
+            <p class="text-gray-700 font-medium mt-2">Software Developer</p>
           </div>
         </div>
       </div>
@@ -155,7 +168,7 @@
               <span class="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">SOLID</span>
             </div>
             <p class="text-gray-600 mb-4">A Python implementation of the QUIC protocol, featuring modules for streams, frames, packets, and connections following relevant RFCs. Built with SOLID principles.</p>
-            <a href="https://imrum.github.io/cpponopoly/html/" target="_blank" class="inline-flex items-center text-purple-600 hover:text-purple-800">
+            <a href="https://imrum.github.io/auquic/html/" target="_blank" class="inline-flex items-center text-purple-600 hover:text-purple-800">
               Read the docs <i class="fas fa-arrow-right ml-2"></i>
             </a>
           </div>
@@ -248,10 +261,10 @@
         <a href="https://github.com/iMRUM" target="_blank" class="flex items-center justify-center w-12 h-12 rounded-full bg-white text-indigo-600 hover:bg-opacity-90 transition-all">
           <i class="fab fa-github text-xl"></i>
         </a>
-        <a href="https://www.linkedin.com/in/imry-rodkin-805ba6285" target="_blank" class="flex items-center justify-center w-12 h-12 rounded-full bg-white text-indigo-600 hover:bg-opacity-90 transition-all">
+        <a href="https://www.linkedin.com/in/imry" target="_blank" class="flex items-center justify-center w-12 h-12 rounded-full bg-white text-indigo-600 hover:bg-opacity-90 transition-all">
           <i class="fab fa-linkedin-in text-xl"></i>
         </a>
-        <a href="mailto:contact@example.com" class="flex items-center justify-center w-12 h-12 rounded-full bg-white text-indigo-600 hover:bg-opacity-90 transition-all">
+        <a href="mailto:rodkin.imry@gmail.com" class="flex items-center justify-center w-12 h-12 rounded-full bg-white text-indigo-600 hover:bg-opacity-90 transition-all">
           <i class="fas fa-envelope text-xl"></i>
         </a>
       </div>
