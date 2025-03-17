@@ -26,7 +26,7 @@ A fully functional **Monopoly game engine** built with Modern C++, SFML, and an 
 
 ### 🌐 **QUIC Streams 2024** (Python)  
 A **Python implementation of the QUIC protocol**, featuring modules for streams, frames, packets, and connections following relevant RFCs. Built with **SOLID principles** for maintainability and extensibility.  
-[🔗 READ THE DOCS](https://imrum.github.io/cpponopoly/html/)
+[🔗 READ THE DOCS](https://imrum.github.io/auquic/html/)
 
 ### ✈️ **Airline Manager & Course Enrollment System 2023** (Java)  
 A **Java project** demonstrating **design patterns** like **Factory, Observer, Strategy, and State**, built as part of my OOP course. Earned **100/100** in grading.  
