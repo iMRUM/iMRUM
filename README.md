@@ -46,7 +46,7 @@ I'm continuously learning and exploring new technologies. Currently, I'm focusin
 ## 📫 Let's Connect
 
 I'm open to discussing new ideas, collaborations, or opportunities.
-Feel free to reach out to me through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/imry-rodkin-805ba6285). 
+Feel free to reach out to me through GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/imry). 
 
 Thanks for visiting my profile!
 
